@@ -4,6 +4,9 @@
 ### Сделан с использованием библиотеки pyAesCrypt
 ## Для запуска:
 Склонируйте репозиторий
+
 Установите окружение при помощи: python3 -m venv venv
+
 Активируйте его sourceя: venv/bin/activate
+
 Установите библиотеку pyAesCrypt: pip install pyAesCrypt
